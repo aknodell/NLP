@@ -1,0 +1,11 @@
+[INFO]	Fold 0 Classified 186 out of 200 reviews with 0.575269 accuracy.  0.070000 reviews unclassified
+[INFO]	Fold 1 Classified 182 out of 200 reviews with 0.571429 accuracy.  0.090000 reviews unclassified
+[INFO]	Fold 2 Classified 181 out of 200 reviews with 0.558011 accuracy.  0.095000 reviews unclassified
+[INFO]	Fold 3 Classified 184 out of 200 reviews with 0.543478 accuracy.  0.080000 reviews unclassified
+[INFO]	Fold 4 Classified 189 out of 200 reviews with 0.523810 accuracy.  0.055000 reviews unclassified
+[INFO]	Fold 5 Classified 183 out of 200 reviews with 0.562842 accuracy.  0.085000 reviews unclassified
+[INFO]	Fold 6 Classified 182 out of 200 reviews with 0.543956 accuracy.  0.090000 reviews unclassified
+[INFO]	Fold 7 Classified 185 out of 200 reviews with 0.567568 accuracy.  0.075000 reviews unclassified
+[INFO]	Fold 8 Classified 187 out of 200 reviews with 0.513369 accuracy.  0.065000 reviews unclassified
+[INFO]	Fold 9 Classified 184 out of 200 reviews with 0.603261 accuracy.  0.080000 reviews unclassified
+[INFO]	Classified total 1843 out of 2000 reviews with 0.556158 accuracy.  0.078500 total reviews unclassified

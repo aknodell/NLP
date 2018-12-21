@@ -1,0 +1,110 @@
+[INFO]	Fold 0 Accuracy: 0.495000
+[INFO]	Fold 1 Accuracy: 0.500000
+[INFO]	Fold 2 Accuracy: 0.625000
+[INFO]	Fold 3 Accuracy: 0.725000
+[INFO]	Fold 4 Accuracy: 0.505000
+[INFO]	Fold 5 Accuracy: 0.540000
+[INFO]	Fold 6 Accuracy: 0.690000
+[INFO]	Fold 7 Accuracy: 0.625000
+[INFO]	Fold 8 Accuracy: 0.505000
+[INFO]	Fold 9 Accuracy: 0.520000
+[INFO]	Accuracy: 0.573000
+[INFO]	Fold 0 Accuracy: 0.605000
+[INFO]	Fold 1 Accuracy: 0.660000
+[INFO]	Fold 2 Accuracy: 0.640000
+[INFO]	Fold 3 Accuracy: 0.675000
+[INFO]	Fold 4 Accuracy: 0.580000
+[INFO]	Fold 5 Accuracy: 0.690000
+[INFO]	Fold 6 Accuracy: 0.610000
+[INFO]	Fold 7 Accuracy: 0.500000
+[INFO]	Fold 8 Accuracy: 0.575000
+[INFO]	Fold 9 Accuracy: 0.595000
+[INFO]	Accuracy: 0.613000
+[INFO]	Fold 0 Accuracy: 0.615000
+[INFO]	Fold 1 Accuracy: 0.510000
+[INFO]	Fold 2 Accuracy: 0.500000
+[INFO]	Fold 3 Accuracy: 0.610000
+[INFO]	Fold 4 Accuracy: 0.500000
+[INFO]	Fold 5 Accuracy: 0.650000
+[INFO]	Fold 6 Accuracy: 0.500000
+[INFO]	Fold 7 Accuracy: 0.570000
+[INFO]	Fold 8 Accuracy: 0.555000
+[INFO]	Fold 9 Accuracy: 0.525000
+[INFO]	Accuracy: 0.553500
+[INFO]	Fold 0 Accuracy: 0.720000
+[INFO]	Fold 1 Accuracy: 0.695000
+[INFO]	Fold 2 Accuracy: 0.705000
+[INFO]	Fold 3 Accuracy: 0.550000
+[INFO]	Fold 4 Accuracy: 0.520000
+[INFO]	Fold 5 Accuracy: 0.635000
+[INFO]	Fold 6 Accuracy: 0.655000
+[INFO]	Fold 7 Accuracy: 0.640000
+[INFO]	Fold 8 Accuracy: 0.700000
+[INFO]	Fold 9 Accuracy: 0.500000
+[INFO]	Accuracy: 0.632000
+[INFO]	Fold 0 Accuracy: 0.645000
+[INFO]	Fold 1 Accuracy: 0.520000
+[INFO]	Fold 2 Accuracy: 0.665000
+[INFO]	Fold 3 Accuracy: 0.565000
+[INFO]	Fold 4 Accuracy: 0.500000
+[INFO]	Fold 5 Accuracy: 0.530000
+[INFO]	Fold 6 Accuracy: 0.695000
+[INFO]	Fold 7 Accuracy: 0.635000
+[INFO]	Fold 8 Accuracy: 0.505000
+[INFO]	Fold 9 Accuracy: 0.585000
+[INFO]	Accuracy: 0.584500
+[INFO]	Fold 0 Accuracy: 0.655000
+[INFO]	Fold 1 Accuracy: 0.650000
+[INFO]	Fold 2 Accuracy: 0.675000
+[INFO]	Fold 3 Accuracy: 0.535000
+[INFO]	Fold 4 Accuracy: 0.610000
+[INFO]	Fold 5 Accuracy: 0.575000
+[INFO]	Fold 6 Accuracy: 0.590000
+[INFO]	Fold 7 Accuracy: 0.500000
+[INFO]	Fold 8 Accuracy: 0.500000
+[INFO]	Fold 9 Accuracy: 0.620000
+[INFO]	Accuracy: 0.591000
+[INFO]	Fold 0 Accuracy: 0.545000
+[INFO]	Fold 1 Accuracy: 0.660000
+[INFO]	Fold 2 Accuracy: 0.635000
+[INFO]	Fold 3 Accuracy: 0.535000
+[INFO]	Fold 4 Accuracy: 0.500000
+[INFO]	Fold 5 Accuracy: 0.680000
+[INFO]	Fold 6 Accuracy: 0.630000
+[INFO]	Fold 7 Accuracy: 0.530000
+[INFO]	Fold 8 Accuracy: 0.520000
+[INFO]	Fold 9 Accuracy: 0.500000
+[INFO]	Accuracy: 0.573500
+[INFO]	Fold 0 Accuracy: 0.515000
+[INFO]	Fold 1 Accuracy: 0.635000
+[INFO]	Fold 2 Accuracy: 0.655000
+[INFO]	Fold 3 Accuracy: 0.540000
+[INFO]	Fold 4 Accuracy: 0.520000
+[INFO]	Fold 5 Accuracy: 0.510000
+[INFO]	Fold 6 Accuracy: 0.510000
+[INFO]	Fold 7 Accuracy: 0.500000
+[INFO]	Fold 8 Accuracy: 0.500000
+[INFO]	Fold 9 Accuracy: 0.505000
+[INFO]	Accuracy: 0.539000
+[INFO]	Fold 0 Accuracy: 0.510000
+[INFO]	Fold 1 Accuracy: 0.685000
+[INFO]	Fold 2 Accuracy: 0.535000
+[INFO]	Fold 3 Accuracy: 0.580000
+[INFO]	Fold 4 Accuracy: 0.505000
+[INFO]	Fold 5 Accuracy: 0.530000
+[INFO]	Fold 6 Accuracy: 0.605000
+[INFO]	Fold 7 Accuracy: 0.675000
+[INFO]	Fold 8 Accuracy: 0.535000
+[INFO]	Fold 9 Accuracy: 0.505000
+[INFO]	Accuracy: 0.566500
+[INFO]	Fold 0 Accuracy: 0.545000
+[INFO]	Fold 1 Accuracy: 0.535000
+[INFO]	Fold 2 Accuracy: 0.715000
+[INFO]	Fold 3 Accuracy: 0.505000
+[INFO]	Fold 4 Accuracy: 0.645000
+[INFO]	Fold 5 Accuracy: 0.505000
+[INFO]	Fold 6 Accuracy: 0.745000
+[INFO]	Fold 7 Accuracy: 0.515000
+[INFO]	Fold 8 Accuracy: 0.585000
+[INFO]	Fold 9 Accuracy: 0.510000
+[INFO]	Accuracy: 0.580500
